@@ -1,0 +1,326 @@
+[
+  {
+    "question": "What is 1+1?",
+    "alternatives": [
+      {
+        "text": 1,
+        "correct": false
+      },
+      {
+        "text": 2,
+        "correct": true
+      },
+      {
+        "text": 3,
+        "correct": false
+      }
+    ],
+    "type": "MATH"
+  },
+  {
+    "question": "What is the square root of 16?",
+    "alternatives": [
+      {
+        "text": 4,
+        "correct": true
+      },
+      {
+        "text": 8,
+        "correct": false
+      },
+      {
+        "text": 12,
+        "correct": false
+      }
+    ],
+    "type": "MATH"
+  },
+  {
+    "question": "What is the atomic number of oxygen?",
+    "alternatives": [
+      {
+        "text": 6,
+        "correct": false
+      },
+      {
+        "text": 7,
+        "correct": false
+      },
+      {
+        "text": 8,
+        "correct": true
+      }
+    ],
+    "type": "SCIENCE"
+  },
+  {
+    "question": "Name a noble gas.",
+    "alternatives": [
+      {
+        "text": "Helium",
+        "correct": true
+      },
+      {
+        "text": "Argon",
+        "correct": true
+      },
+      {
+        "text": "Oxygen",
+        "correct": false
+      }
+    ],
+    "type": "SCIENCE"
+  },
+  {
+    "question": "In which year did World War II end?",
+    "alternatives": [
+      {
+        "text": "1942",
+        "correct": false
+      },
+      {
+        "text": "1945",
+        "correct": true
+      },
+      {
+        "text": "1950",
+        "correct": false
+      }
+    ],
+    "type": "HISTORY"
+  },
+  {
+    "question": "Name a famous ancient Greek philosopher.",
+    "alternatives": [
+      {
+        "text": "Socrates",
+        "correct": true
+      },
+      {
+        "text": "Plato",
+        "correct": true
+      },
+      {
+        "text": "Aristotle",
+        "correct": true
+      }
+    ],
+    "type": "HISTORY"
+  },
+  {
+    "question": "Who wrote the novel \"Pride and Prejudice\"?",
+    "alternatives": [
+      {
+        "text": "Emily Brontë",
+        "correct": false
+      },
+      {
+        "text": "Jane Austen",
+        "correct": true
+      },
+      {
+        "text": "Virginia Woolf",
+        "correct": false
+      }
+    ],
+    "type": "LITERATURE"
+  },
+  {
+    "question": "Name a play written by William Shakespeare.",
+    "alternatives": [
+      {
+        "text": "Hamlet",
+        "correct": true
+      },
+      {
+        "text": "Macbeth",
+        "correct": true
+      },
+      {
+        "text": "Romeo and Juliet",
+        "correct": true
+      }
+    ],
+    "type": "LITERATURE"
+  },
+  {
+    "question": "What is the capital city of Australia?",
+    "alternatives": [
+      {
+        "text": "Melbourne",
+        "correct": false
+      },
+      {
+        "text": "Sydney",
+        "correct": false
+      },
+      {
+        "text": "Stockholm",
+        "correct": false
+      }
+    ],
+    "type": "GEOGRAPHY"
+  },
+  {
+    "question": "Name a continent that is completely in the Southern Hemisphere.",
+    "alternatives": [
+      {
+        "text": "Antarctica",
+        "correct": true
+      },
+      {
+        "text": "Australia",
+        "correct": true
+      },
+      {
+        "text": "Europe",
+        "correct": false
+      }
+    ],
+    "type": "GEOGRAPHY"
+  },
+  {
+    "question": "What is the official language of Brazil?",
+    "alternatives": [
+      {
+        "text": "Portuguese",
+        "correct": true
+      },
+      {
+        "text": "Spanish",
+        "correct": false
+      },
+      {
+        "text": "English",
+        "correct": false
+      }
+    ],
+    "type": "LANGUAGE"
+  },
+  {
+    "question": "What is the plural form of the word \"goose\"?",
+    "alternatives": [
+      {
+        "text": "Gooses",
+        "correct": false
+      },
+      {
+        "text": "Geese",
+        "correct": true
+      },
+      {
+        "text": "Goosies",
+        "correct": false
+      }
+    ],
+    "type": "LANGUAGE"
+  },
+  {
+    "question": "Who painted the famous artwork \"Mona Lisa\"?",
+    "alternatives": [
+      {
+        "text": "Leonardo da Vinci",
+        "correct": true
+      },
+      {
+        "text": "Vincent van Gogh",
+        "correct": false
+      },
+      {
+        "text": "Pablo Picasso",
+        "correct": false
+      }
+    ],
+    "type": "ART"
+  },
+  {
+    "question": "Who painted the famous artwork \"The Starry Night\"?",
+    "alternatives": [
+      {
+        "text": "Leonardo da Vinci",
+        "correct": false
+      },
+      {
+        "text": "Vincent van Gogh",
+        "correct": true
+      },
+      {
+        "text": "Pablo Picasso",
+        "correct": false
+      }
+    ],
+    "type": "ART"
+  },
+  {
+    "question": "Which sport does Usain Bolt excel in?",
+    "alternatives": [
+      {
+        "text": "Basketball",
+        "correct": false
+      },
+      {
+        "text": "Sprint",
+        "correct": true
+      },
+      {
+        "text": "Swimming",
+        "correct": false
+      }
+    ],
+    "type": "SPORTS"
+  },
+  {
+    "question": "Name a sport that is played with a ball.",
+    "alternatives": [
+      {
+        "text": "Football",
+        "correct": true
+      },
+      {
+        "text": "Basketball",
+        "correct": true
+      },
+      {
+        "text": "Tennis",
+        "correct": true
+      }
+    ],
+    "type": "SPORTS"
+  },
+  {
+    "question": "Who composed the \"Fur Elise\"?",
+    "alternatives": [
+      {
+        "text": "Ludwig van Beethoven",
+        "correct": true
+      },
+      {
+        "text": "Wolfgang Amadeus Mozart",
+        "correct": false
+      },
+      {
+        "text": "Johann Sebastian Bach",
+        "correct": false
+      }
+    ],
+    "type": "MUSIC"
+  },
+  {
+    "question": "Which band released the album \"Sgt. Pepper\u0027s Lonely Hearts Club Band\"?",
+    "alternatives": [
+      {
+        "text": "The Beatles",
+        "correct": true
+      },
+      {
+        "text": "Led Zeppelin",
+        "correct": false
+      },
+      {
+        "text": "The Rolling Stones",
+        "correct": false
+      }
+    ],
+    "type": "MUSIC"
+  }
+]
